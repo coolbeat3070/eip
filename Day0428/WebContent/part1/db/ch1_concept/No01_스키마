@@ -1,0 +1,24 @@
+메타데이터: Data about Data
+스키마(Schema) : 
+	1.데이터 구조
+	2.메타데이터(의 집합)
+	3.데이터 사전에 저장됨
+데이터 사전(= 시스템카탈로그) 
+
+외부 스키마(= 서브스키마, 사용자 뷰) : view , 사용자 관점
+개념 스키마(= 스키마) : Relation, 전제적인 뷰, DBA 관점 // 스키마 대표개념
+내부 스키마(= 저장 스키마) : Real, 시스템 프로그래머, 설계자 관점
+
+DB 언어.
+Data Definition Lang
+Data Manipulation Lang
+Data Control
+
+DB 사용자
+DBA (DB Administrator)
+Application Programmer (응용프로그래머)
+End User (일반사용자) 터미널을 통해 사용함.
+
+
+
+
