@@ -1,0 +1,11 @@
+관계DB 구조
+릴레이션 Relation : 
+	데이터를 Table 로 표현한 것으로 스키마 + 인스턴스 로 구성
+튜플Tuple , 기수(Cardinality)
+속성Attribute , 차수(Degree)
+도메인(Domain)
+
+제약조건(Constraint)
+
+
+
